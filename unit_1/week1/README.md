@@ -13,6 +13,13 @@
 * Create Java programs using the Eclipse Integrated Development Environment (IDE)
 
 **Monday**:
+* Daily Objectives
+  * Understand what memory is and how it is used.
+  * Be able to create and use variables to hold data.
+  * Understand variable types and memory allocation sizes.
+  * Be able to write output to the screen; format that output.
+  * Be able to collect and display user input.
+  
 * Orientation
 * [Fundamentals of Computer Programming](JFOP)
    * Chapter 4 - Data Types, Constants, and Variables
@@ -20,6 +27,12 @@
 * Project: [Day One Setup](Day1-Setup)
 
 **Tuesday**:
+* Daily Objectives
+  * Understand expressions and operators, and how they are used.
+  * Be able to write programs that use AND and OR logic.
+  * Be able to use if, else, switch control flow statements.
+  * Be able to use for, while, and do while loops.
+  
 * [Fundamentals of Computer Programming](JFOP)
    * Chapter 6 - Expressions
    * Chapter 7 - Decision Making
@@ -28,6 +41,11 @@
 * Project: [FizzBuzz](fizzBuzz/README.md)
 
 **Wednesday**:
+* Daily Objectives
+  * Be able to create and use methods and pass values as parameters.
+  * Understand local vs. class variable scope.
+  * Declare and use one and two-dimensional arrays.
+  
 * [Fundamentals of Computer Programming](JFOP)
    * Chapter 9 - Methods
    * Chapter 10 - Data Collections: Arrays
@@ -35,6 +53,15 @@
 * Project: [Tic Tac Toe](tictactoe/README.md)
 
 **Thursday**:
+* Daily Objectives
+  * Know the difference between JVM, JRE, and JDK.
+  * Use the args array to pass runtime parameters to a Java program.
+  * Install and use Eclipse, including debugger.
+  * Know rules for variable naming.
+  * Understand Java primitives and rules for casting.
+  * Understand local and final variable assignment rules.
+  * Be able to determine if two Strings are equal.
+
 * Java 1
    * Chapter 1 - Course Overview
    * Chapter 2 - Getting Started with Java
@@ -45,6 +72,13 @@
 * Project: [Employee Menu](employee_menu/README.md)
 
 **Friday**:
+* Daily Objectives
+  * Use for, while, do-while loops.
+  * Understand the difference between while and do-while.
+  * Use methods with arguments and return values.
+  * Understand code blocks and variable scope.
+  * Understand the difference between static and class variables.
+  
 * Java 1
    * Chapter 6 - Control Flow
    * Chapter 7 - Methods
