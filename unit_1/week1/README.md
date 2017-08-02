@@ -50,7 +50,8 @@
    * Chapter 9 - Methods
    * Chapter 10 - Data Collections: Arrays
    * Chapter 11 - Debugging
-* Project: [Tic Tac Toe](tictactoe/README.md)
+* Project: [Deaf Grandma](deaf_grandma/README.md)
+* Project: [Employee Menu](employee_menu/README.md)
 
 **Thursday**:
 * Daily Objectives
@@ -68,8 +69,7 @@
    * Chapter 3 - Eclipse
    * Chapter 4 - Datatypes and Variables
    * Chapter 5 - Operators and Expressions
-* Project: [Deaf Grandma](deaf_grandma/README.md)
-* Project: [Employee Menu](employee_menu/README.md)
+* Project: [Tic Tac Toe](tictactoe/README.md)
 
 **Friday**:
 * Daily Objectives
