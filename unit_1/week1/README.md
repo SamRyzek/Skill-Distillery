@@ -86,9 +86,11 @@
 
 **Homework**:
 * Reading
-  * Head First Java, Chapters 1-5 (Some will be review, some will be new information)
+  * Java1, Chapter 7: Methods + labs
+  * Head First Java, Chapters 1-4 (Some will be review, some will be new information)
+    * Chapter 5 if you feel like it.
 * Coding
-  * Make Change Project (from Friday)
+  * [Make Change](makeChange/README.md) project
   * Complete any projects/labs that you haven't finished.
 
 
