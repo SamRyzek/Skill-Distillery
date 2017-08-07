@@ -4,6 +4,7 @@
 
 * Define fundamental Object-Oriented concepts such as abstraction, encapsulation, inheritance and polymorphism.
 * Model classes and static relationships between them using class diagrams.
+* Use String, StringBuilder, and Java's primitive-type wrapper classes.
 * Implement Object-Oriented concepts using Java features such as classes and interfaces.
 * Write programs which both handle and create exceptions. 
 * Create unit tests with JUnit.
@@ -13,6 +14,8 @@
   * Be able to design classes with attributes and methods.
   * Understand encapsulation and abstraction.
   * Know the definitions "cohesion" and "coupling."
+  * Understand constructors and initialization order.
+  * Create objects with static and instance fields.
   
 * Java 1
    * Chapter 8 - Objects and Classes
@@ -20,20 +23,17 @@
 
 **Tuesday**
 * Daily Objectives
-  * Create objects with static and instance fields.
-  * Understand "final" variable assignment.
-  * Understand constructors and initialization order.
-  * Understand access modifiers public, private, protected, "default"
-  
+  * Use StringBuilder and its methods.
+  * Determine if two objects are equal.
+  * Use the primitive-type wrapper classes.
+  * Define and use enum data types.
+
 * Java 1
-   * Chapter 8 - Objects and Classes 
+   * Chapter 9 - Using Java Objects 
 * Projects: [Cash Register OO](OOCashRegister/README.md), [Employee Menu](employee_menu/README.md)  
 
 **Wednesday**
 * Objectives Wed/Thur
-  * Be able to use StringBuilder and its methods.
-  * Be able to create and use enum data type.
-  * Be able to determine if two objects are equal.
   * Understand inheritance and visibility.
   * Understand polymorphism.
   * Understand and use abstract classes and interfaces.
@@ -41,12 +41,11 @@
   * Understand default constructor creation and usage.
   
 * Java 1
-   * Chapter 9 - Using Java Objects 
+   * Chapter 10 - Inheritance in Java 
    * Appendix D - Inheritance
 
 **Thursday**
 * Java 1
-   * Chapter 10 - Inheritance in Java 
    * Chapter 11 - Advanced Inheritance 
 * Project:  [Lord of the Objects](lord_of_the_objects/README.md)  
 
@@ -54,6 +53,7 @@
 * Daily Objectives
   * Understand packages and related file structure.
   * Understand import statements and class "collisions."
+  * Understand access modifiers public, private, protected, "default"
   * Understand the purposes of test-driven development.
   * Be able to write tests with JUnit.
   * Understand Exceptions and try/catch/finally.
