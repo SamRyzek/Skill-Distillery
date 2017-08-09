@@ -43,6 +43,7 @@
 * Java 1
    * Chapter 10 - Inheritance in Java 
    * Appendix D - Inheritance
+* Project:  [Lord of the Objects](lord_of_the_objects/README.md) 
 
 **Thursday**
 * Java 1
