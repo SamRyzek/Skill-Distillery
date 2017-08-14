@@ -65,11 +65,6 @@
     <td><a href="http://">http://</a></td>
   </tr>
  <tr>
-    <td><a href="https://github.com/JoWalder">Jodi Walder</a></td>
-    <td><a href="https://JoWalder.github.io">JoWalder.github.io</a></td>
-    <td><a href="http://">http://</a></td>
-  </tr>
- <tr>
     <td><a href="https://github.com/msupg21">Chris Bartkowitz</a></td>
     <td><a href="https://msupg21.github.io">msupg21.github.io</a></td>
     <td><a href="http://">http://</a></td>
