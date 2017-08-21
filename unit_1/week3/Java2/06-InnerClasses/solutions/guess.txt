@@ -1,0 +1,4 @@
+There are three StringBuilder objects in the HashSet.
+
+java.lang.StringBuilder does not override the equals() or hashCode() methods.  
+The methods inherited from java.lang.Object rely on the object reference ID, which is different for each object.  Therefore, two StringBuilders holding identical strings, will return false from equals().
