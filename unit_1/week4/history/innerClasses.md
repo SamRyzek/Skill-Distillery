@@ -19,7 +19,7 @@ The file _presidents.tsv_ consists of records with tab-separated fields.  _Presi
 
 * Use an anonymous class to print a list of presidents sorted by length of term.
 
-* Use an anonymous class to print a list of presidents whose terms started in the 19th century.
+//* Use an anonymous class to print a list of presidents whose terms started in the 19th century.
 
 #### Filtering
 The `PresidentMatcher` interface defines the boolean method `matches()`, which takes a string and a `President` reference.  The `PresidentPartyMatcher` example returns true if the string matches the president's party (ignoring case).
@@ -37,3 +37,4 @@ In `PresidentApp`, the `filter()` method takes a string and a `PresidentMatcher`
   * Whose party contains the string "Democrat".
   * Who died in office
   * Who won only a single election.
+  * Whose terms started in the 19th century.
