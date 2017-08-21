@@ -36,8 +36,8 @@
 * Setup Mock Exam Software
 * Mock Exam #1
 * Exam Prep 
-* Reading Assignment: OCA Study Guide Chapter 4 
+* Reading Assignment: OCA Study Guide Chapter 3 
 
 **Friday**:
 * Exam Prep 
-* Reading Assignment: OCA Study Guide Chapters 5 and 6 
+* Reading Assignment: OCA Study Guide Chapters 4 - 6 
