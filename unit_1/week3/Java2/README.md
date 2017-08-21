@@ -26,8 +26,6 @@
 
 * [Chapter 06 - Inner Classes](06-InnerClasses/README.md)
 
-* [Chapter 07 - Introduction to Swing](07-IntroductiontoSwing/README.md)
-
 * [Chapter 08 - Introduction to Threads](08-IntroductiontoThreads/README.md)
 
 * [Chapter 09 - Thread Synchronization and Concurrency](09-ThreadSynchronizationandConcurrency/README.md)
