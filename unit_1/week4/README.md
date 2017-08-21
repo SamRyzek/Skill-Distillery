@@ -10,14 +10,13 @@
 
 **Tuesday**:
 * Daily Objectives
- * Use Lambda expressions to implement event listeners and comparators.
- * Define the term "functional interface".
- * Write simple and complex Lambda expressions.
+  * Use Lambda expressions to implement event listeners and comparators.
+  * Define the term "functional interface".
+  * Write simple and complex Lambda expressions.
  
 * [Java 2](../week3/Java2)
   * Chapter 10 - Introduction to Lambda Expressions
 * Individual Project: [History: Lambdas](history/lambdas.md)
-
 * Reading Assignment: OCA Study Guide Chapter 1 
 
 **Wednesday**:
