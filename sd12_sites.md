@@ -20,7 +20,7 @@
     <td><a href="http://">http://</a></td>
   </tr>
  <tr>
-    <td><a href="https://github.com/Meira1427">Miera  Penterman</a></td>
+    <td><a href="https://github.com/Meira1427">Meira  Penterman</a></td>
     <td><a href="https://Meira1427.github.io">Meira1427.github.io</a></td>
     <td><a href="http://">http://</a></td>
   </tr>
@@ -65,7 +65,7 @@
     <td><a href="http://">http://</a></td>
   </tr>
  <tr>
-    <td><a href="https://github.com/msupg21">Chris Bartkowitz</a></td>
+    <td><a href="https://github.com/msupg21">Chris Bartkewicz</a></td>
     <td><a href="https://msupg21.github.io">msupg21.github.io</a></td>
     <td><a href="http://">http://</a></td>
   </tr>
