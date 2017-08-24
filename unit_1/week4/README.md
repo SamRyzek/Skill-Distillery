@@ -29,7 +29,7 @@
 * [Java 2](../week3/Java2)
   * Chapter 8 - Introduction to Threads 
   * Chapter 9 - Thread Synchronization and Concurrency 
-* Project: [Threaded Caesar Cipher](CaesarCipherThreaded.md) 
+* Project: [Threaded Caesar Cipher](caesarThreaded/README.md) 
 * Reading Assignment: OCA Study Guide Chapter 2 
 
 **Thursday**:
