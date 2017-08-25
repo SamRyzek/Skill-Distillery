@@ -9,15 +9,16 @@
 - Friday:
   *  Topic: Polymorphism/Method overriding/variable shadowing  
   *  Topic: Casting
+  *  Topic: Exceptions 
   
 - Monday:
   *  Second proctored mock exam (test #2)
   *  Paired review test 2
 
 - Tuesday:
-  *  Topic: Exceptions 
   *  Topic: Initialization 
   *  Topic: Interfaces 
+  *  Topic: Labels 
 
 - Wednesday:
   *  Topics: Student Topics
