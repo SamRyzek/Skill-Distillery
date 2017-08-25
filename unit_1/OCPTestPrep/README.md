@@ -36,6 +36,7 @@
 * Take other mocks on your own.  
 * Review each question you got wrong, as well as the topic it pertains to.  
 * Reading alone is not going to make you pass; experience with the tests are. Practice exam, review, repeat.  
+  * Copy question code into Eclipse, run, debug, experiment.
 * Don't get discouraged, we have people who pass tests that improved from 20's.  
 * Ask questions, but we are not here to go over entire tests with you.  
 * Take notes on the Chapter topics, see study guide pdf document.  
