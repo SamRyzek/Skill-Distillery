@@ -52,40 +52,40 @@
 5. Interfaces/Java8 Interfaces/Abstract classes  
 
 ### Student Topics:
-1. References
+1. References - Daniel
    * Pass by reference vs pass by value
    * Object equality
    * Object lifecycle
    * Garbage collection.
-2. Access modifiers
+2. Access modifiers - Doug
    * Variables
    * Methods
    * Classes  
    * Inheritance rules
-3. Program logic
+3. Program logic - Chris Bianchi
    * Logical operators, short-circuit
    * Single vs double &/|
    * Decision constructs - if/switch
    * Pre and post increment in expressions
-4. Constructors
+4. Constructors - Jackie
    * this(), super() - (when/where can/can't)
    * super() vs super
    * Default no-arg gotchas
    * Why use this()?
-5. Method overloading
+5. Method overloading - Erik
    * Overload vs override
    * What constitutes an overload
    * What are the rules?
    * Method choice and effects of autoboxing.
 6. Var args  
    * main
-7. Static
+7. Static - Mustafa
    * Fields and inheritance
    * Collisions
    * Methods and hiding/inheritance
    * imports of methods
    * In interfaces
-8. Arrays and multi-dimensional arrays 
+8. Arrays and multi-dimensional arrays - Chris Bartkewicz
    * Array declarations
      * Multidimensional, with dimension expressions on both datatype and variable name.
    * Array initialization 3 different ways
@@ -93,23 +93,37 @@
    * Traversing multidimensional array with both for and foreach
    * java.util.Arrays methods - asList(), etc
    * System.Arraycopy()
-9. Method overriding
+9. Method overriding - Jimmy
    * Exceptions
    * Access control
    * Parameters
    * Return types - covariance
-10. StringBuilder and String Methods  
-11. Loop basics
+10. StringBuilder and String Methods - Alex
+   * StringBuilder
+     * append
+     * capacity
+     * delete (incl, excl)
+     * ensureCapacity
+     * substring
+     * trimToSize
+   * String
+     * concat
+     * contains
+     * equalsIgnoreCase
+     * intern
+     * substring(incl, excl)
+     * static valueOf  
+11. Loop basics - Stan
    * for/foreach - can you determine your current iteration in foreach?
    * What goes in the 3 for(;;) loop expressions?
    * Labels
    * break/continue (including with labels)
    * Iterators
-12. Java 8 Lambdas
+12. Java 8 Lambdas - Brian
    * Curlies, semicolons
    * Predicate and test()
    * Functional interfaces with example and implementation
-13. Dates and Times
+13. Dates and Times - Meira
    * LocalDate, LocalTime, LocalDateTime, Period, Duration
      * Using them together (ie, adding period to date)
      * What fields available in them
@@ -117,11 +131,11 @@
    * Formatting
      * DateTimeFormatter
      * ISO format stuff
-14. Methods
+14. Methods - Sam
    * local variable declaration
    * variable shadowing
    * returning and assigning values
-15. Wrappers
+15. Wrappers - David
    * Passing (question in exam 1)
    * Autoboxing
    * Hierarchy (extend Number, can't cast Float to Integer)
