@@ -77,15 +77,13 @@
    * What constitutes an overload
    * What are the rules?
    * Method choice and effects of autoboxing.
-6. Var args  
-   * main
-7. Static - Mustafa
+6. Static - Mustafa
    * Fields and inheritance
    * Collisions
    * Methods and hiding/inheritance
    * imports of methods
    * In interfaces
-8. Arrays and multi-dimensional arrays - Chris Bartkewicz
+7. Arrays and multi-dimensional arrays - Chris Bartkewicz
    * Array declarations
      * Multidimensional, with dimension expressions on both datatype and variable name.
    * Array initialization 3 different ways
@@ -93,12 +91,12 @@
    * Traversing multidimensional array with both for and foreach
    * java.util.Arrays methods - asList(), etc
    * System.Arraycopy()
-9. Method overriding - Jimmy
+8. Method overriding - Jimmy
    * Exceptions
    * Access control
    * Parameters
    * Return types - covariance
-10. StringBuilder and String Methods - Alex
+9. StringBuilder and String Methods - Alex
    * StringBuilder
      * append
      * capacity
@@ -112,18 +110,18 @@
      * equalsIgnoreCase
      * intern
      * substring(incl, excl)
-     * static valueOf  
-11. Loop basics - Stan
+     * static valueOf
+10. Loop basics - Stan
    * for/foreach - can you determine your current iteration in foreach?
    * What goes in the 3 for(;;) loop expressions?
    * Labels
    * break/continue (including with labels)
    * Iterators
-12. Java 8 Lambdas - Brian
+11. Java 8 Lambdas - Brian
    * Curlies, semicolons
    * Predicate and test()
    * Functional interfaces with example and implementation
-13. Dates and Times - Meira
+12. Dates and Times - Meira
    * LocalDate, LocalTime, LocalDateTime, Period, Duration
      * Using them together (ie, adding period to date)
      * What fields available in them
@@ -131,11 +129,11 @@
    * Formatting
      * DateTimeFormatter
      * ISO format stuff
-14. Methods - Sam
+13. Methods - Sam
    * local variable declaration
    * variable shadowing
    * returning and assigning values
-15. Wrappers - David
+14. Wrappers - David
    * Passing (question in exam 1)
    * Autoboxing
    * Hierarchy (extend Number, can't cast Float to Integer)
