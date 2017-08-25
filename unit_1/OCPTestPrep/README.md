@@ -9,15 +9,16 @@
 - Friday:
   *  Topic: Polymorphism/Method overriding/variable shadowing  
   *  Topic: Casting
+  *  Topic: Exceptions 
   
 - Monday:
   *  Second proctored mock exam (test #2)
   *  Paired review test 2
 
 - Tuesday:
-  *  Topic: Exceptions 
   *  Topic: Initialization 
   *  Topic: Interfaces 
+  *  Topic: Labels 
 
 - Wednesday:
   *  Topics: Student Topics
@@ -35,6 +36,7 @@
 * Take other mocks on your own.  
 * Review each question you got wrong, as well as the topic it pertains to.  
 * Reading alone is not going to make you pass; experience with the tests are. Practice exam, review, repeat.  
+  * Copy question code into Eclipse, run, debug, experiment.
 * Don't get discouraged, we have people who pass tests that improved from 20's.  
 * Ask questions, but we are not here to go over entire tests with you.  
 * Take notes on the Chapter topics, see study guide pdf document.  
