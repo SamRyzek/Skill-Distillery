@@ -112,33 +112,33 @@
      * substring(incl, excl)
      * static valueOf
 10. Loop basics - Stan
-   * for/foreach - can you determine your current iteration in foreach?
-   * What goes in the 3 for(;;) loop expressions?
-   * Labels
-   * break/continue (including with labels)
-   * Iterators
+    * for/foreach - can you determine your current iteration in foreach?
+    * What goes in the 3 for(;;) loop expressions?
+    * Labels
+    * break/continue (including with labels)
+    * Iterators
 11. Java 8 Lambdas - Brian
-   * Curlies, semicolons
-   * Predicate and test()
-   * Functional interfaces with example and implementation
+    * Curlies, semicolons
+    * Predicate and test()
+    * Functional interfaces with example and implementation
 12. Dates and Times - Meira
-   * LocalDate, LocalTime, LocalDateTime, Period, Duration
-     * Using them together (ie, adding period to date)
-     * What fields available in them
-     * Time zones
-   * Formatting
-     * DateTimeFormatter
-     * ISO format stuff
+    * LocalDate, LocalTime, LocalDateTime, Period, Duration
+      * Using them together (ie, adding period to date)
+      * What fields available in them
+      * Time zones
+    * Formatting
+      * DateTimeFormatter
+      * ISO format stuff
 13. Methods - Sam
-   * local variable declaration
-   * variable shadowing
-   * returning and assigning values
+    * local variable declaration
+    * variable shadowing
+    * returning and assigning values
 14. Wrappers - David
-   * Passing (question in exam 1)
-   * Autoboxing
-   * Hierarchy (extend Number, can't cast Float to Integer)
-   * Boolean parseBoolean(String)
-   * Constructors, valueOf(), typeValue(), parseType(), etc
+    * Passing (question in exam 1)
+    * Autoboxing
+    * Hierarchy (extend Number, can't cast Float to Integer)
+    * Boolean parseBoolean(String)
+    * Constructors, valueOf(), typeValue(), parseType(), etc
      
 
 Prepare a 5-10 minute presentation on your topic that you think will reinforce your classmates understanding.
