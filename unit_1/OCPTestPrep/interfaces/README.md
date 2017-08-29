@@ -76,7 +76,7 @@ public class Type1Bozo implements Bozo {
 	}
 }
 ```
-*	Fields can be shadowed by implementing or extending, but can't be referred to if there is a collision.
+*	Fields can be hidden by implementing or extending, but can't be referred to if there is a collision.
 
 (see CollisionTest.java)
 
