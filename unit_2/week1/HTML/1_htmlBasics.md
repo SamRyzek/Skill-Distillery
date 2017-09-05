@@ -54,7 +54,7 @@ Some html elements are required to be nested. When building a list for example y
   <li>Rob</li>
 </ul>
 ```
-Yeilds:
+Yields:
 * Andrew
 * Kris
 * Steve
@@ -69,7 +69,7 @@ Yeilds:
 </ol>
 ```
 
-Yeilds:  
+Yields:  
 1. Andrew  
 2. Kris  
 3. Steve  
