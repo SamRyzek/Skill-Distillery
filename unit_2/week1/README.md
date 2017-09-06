@@ -1,11 +1,9 @@
 ### Week 1 - HTML and CSS
-Tuesday:  Java OCA Certification Test, [HTML Basics](HTML/README.md)   
+Wednesday:  Java OCA Certification Test, [HTML Basics](HTML/README.md)   
 
-Wednesday:  [HTML Assessment](HTML-Assessment/README.md), [CSS Basics](CSS/README.md), [CSS Assessment](CSS-Assessment/README.md)  
+Thursday:  [HTML Assessment](HTML-Assessment/README.md), [CSS Basics](CSS/README.md), [CSS Assessment](CSS-Assessment/README.md)  
 
-Thursday: [Personal Site Project](Personal-Site-Project/README.md), [AWS deployment](AWS-EC2-Instance/README.md),  [AWS Apache](AWS-EC2-Apache/README.md), [Web101-HTTP](Web101-HTTP/README.md)  
-
-Friday: [Java Web Programming](Java-Web/README.md) 
+Friday: [Personal Site Project](Personal-Site-Project/README.md), [AWS deployment](AWS-EC2-Instance/README.md),  [AWS Apache](AWS-EC2-Apache/README.md), [Web101-HTTP](Web101-HTTP/README.md)  
 
 Homework: [Personal Site Project](Personal-Site-Project/README.md)
 
