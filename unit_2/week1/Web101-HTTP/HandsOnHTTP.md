@@ -7,8 +7,11 @@
 3.	Using telnet connections to port 80 of www.google.com, try the following requests noting the HTTP response line and headers returned for each:
 
 	HEAD / HTTP/1.0
+	
 	OPTIONS / HTTP/1.0
+	
 	TRACE / HTTP/1.0
+	
 
 	Try these requests for some other web sites.
 
