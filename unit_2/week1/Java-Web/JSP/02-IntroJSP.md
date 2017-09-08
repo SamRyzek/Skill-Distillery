@@ -18,7 +18,7 @@
 
 <hr>
 
-![JSP Processing](../images/JSPProcess.png)
+![JSP Processing](JSP.png)
 
 [Prev](01-MVCWebApps.md) | [Up](../README.md) | [Next](03-ExpressionLanguage.md)
 
