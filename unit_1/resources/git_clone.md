@@ -6,12 +6,19 @@ You and your teammates are collaborating on a Java project.  How do you use Gith
 We'll call this person **Owner**
 
 1. **Owner** Create project repo under their Github account.
+
 2. **Owner** invite **Teammates** to collaborate:
    1. Repo -> Settings -> Collaborators & Teams -> Invite collaborators
    2. **Teammates** accept invitation.
+   
 3. **Owner** Create new Eclipse project, configure git:
    1. Create project in Eclipse.
    2. In terminal, `cd` to the project folder under the Eclipse workspace.
+   
+      ```bash
+      cd ~/SD/Java/workspace/ProjectName/
+      ```
+      
    3. Create a `.gitignore` file:
    
       ```
