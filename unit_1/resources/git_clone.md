@@ -61,7 +61,7 @@ After accepting Github invitation to collaborate, and after **Owner** has pushed
 ##### NOTES
 If things seem to be screwed up somehow, you can start over:
 1. In Eclipse, select the imported project, right-click, *Delete*
-2. MAKE SURE TO CHECK: *Delete project contents on disk (cannot be undone)
+2. MAKE SURE TO CHECK: *Delete project contents on disk (cannot be undone)*
 3. *OK*
 
 If you deleted the project from Eclipse without checking *Delete project contents on disk*, you won't be able to reimport until you remove the project folder from your workspace.  In terminal:
