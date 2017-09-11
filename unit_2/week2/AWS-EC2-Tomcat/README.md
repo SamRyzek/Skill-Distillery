@@ -12,12 +12,12 @@ To run Java Web applications on your server you need a server.  We'll use Tomcat
 1. Upload and install the current JDK on your server:
     * Copy the JDK8 Linux RPM package from the server where it's been staged.
     ```bash
-    wget http://skilldistillery.com/downloads/jdk-8u131-linux-x64.rpm
+    wget http://skilldistillery.com/downloads/jdk-8u144-linux-x64.rpm
     ```
 
     * Wait for the upload to finish, then install the RPM:
     ```bash
-    sudo yum -y install jdk-8u131-linux-x64.rpm
+    sudo yum -y install jdk-8u144-linux-x64.rpm
     ```
 
 2. Install Tomcat 8 on your server:
