@@ -1,10 +1,10 @@
 ### Week 2 - Java Web Programming, Spring/MVC Web Programming
 
-Monday:  [Java Web Programming](Java-Web/README.md)  
+Monday:  Finish Presidents project,  deploy projects to AWS, presentations[AWS-EC2-Tomcat](AWS-EC2-Tomcat/README.md), [Java Web Programming](Java-Web/README.md)  
 
-Tuesday:  [Java Web Programming](Java-Web/README.md), [Presidents Project](Presidents-Project/README.md)
+Tuesday: [Spring MVC](SpringMVC/README.md)
 
-Wednesday: Finish Presidents project, [AWS-EC2-Tomcat](AWS-EC2-Tomcat/README.md), deploy projects to AWS, presentations
+Wednesday: [Spring MVC](SpringMVC/README.md) 
 
 Thursday: [Spring MVC](SpringMVC/README.md)
 
