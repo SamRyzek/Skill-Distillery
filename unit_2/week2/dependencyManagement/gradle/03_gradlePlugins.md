@@ -42,7 +42,7 @@
 * This plugin helps with packaging JEE web apps.
 
   ```java
-  apply plugin 'java'
+  apply plugin 'war'
   ```
 
 * The `war` plugin assumes the root of your web content is `src/main/webapp`.
