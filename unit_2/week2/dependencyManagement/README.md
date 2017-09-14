@@ -20,4 +20,4 @@ To help deal with this, build automation tools also include _dependency manageme
 
 We've already used Maven for our web projects - let's take a closer look.
 
-[Next](maven.md)
+[Next](maven/README.md)
