@@ -11,7 +11,7 @@
    * `age` : minimum 16
 
 
-2. Create a form in `register.jsp` using the `@taglib` directives 'form' tags. (don't forget to add the `@taglib` directive)  
+2. Create a form in `register.jsp` using the `@taglib` directive's 'form' tags. (don't forget to add the `@taglib` directive)  
 
 3. In the `RegistrationController`, complete the todos on the request handlers. Run the unit tests. Repeat this process for the `LoginController`.
 
