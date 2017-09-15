@@ -40,7 +40,8 @@
 * Sample Gradle build configuration for a Spring/MVC project 
 */
 
-version = '1.0.0-BUILD-SNAPSHOT'  // Bump this as you add features/fix bugs
+group = 'YOUR_PROJECT_NAME_HERE'  // Matches rootProject.name in settings.gradle
+version = '0.0.1-BUILD-SNAPSHOT'  // Bump this as you add features/fix bugs
 
 apply plugin: 'java'
 apply plugin: 'war'
@@ -48,10 +49,10 @@ apply plugin: 'eclipse-wtp'
 
 sourceSets {
   main {
-    java.srcDirs 'src/main/java'
+    java.srcDirs 'src/main/java'  // Matches your actual source folder structure
   }
   test {
-    java.srcDirs 'src/test/java'
+    java.srcDirs 'src/test/java'  // Matches your actual source folder structure
   }
 }
 
