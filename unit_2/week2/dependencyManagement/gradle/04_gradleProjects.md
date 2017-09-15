@@ -66,16 +66,6 @@ repositories {
    mavenCentral()
 }
 
-dependencies {
-    compile group: 'org.springframework', name: 'spring-webmvc', version:'4.3.2.RELEASE'
-    compile group: 'javax.servlet', name: 'javax.servlet-api', version:'3.1.0'
-    compile group: 'javax.servlet', name: 'jstl', version:'1.2'
-    compile group: 'org.hibernate', name: 'hibernate-validator', version:'5.2.4.Final'
-    testCompile group: 'junit', name: 'junit', version:'4.12'
-    testCompile group: 'org.springframework', name: 'spring-test', version:'4.3.2.RELEASE'
-    testCompile group: 'org.hamcrest', name: 'hamcrest-junit', version:'2.0.0.0'
-}
-
 eclipse {
   classpath {
     downloadSources = true
@@ -84,6 +74,16 @@ eclipse {
     natures 'org.springframework.ide.eclipse.core.springnature', 
             'org.eclipse.buildship.core.gradleprojectnature'
   }
+}
+
+dependencies {
+    compile group: 'org.springframework', name: 'spring-webmvc', version:'4.3.2.RELEASE'
+    compile group: 'javax.servlet', name: 'javax.servlet-api', version:'3.1.0'
+    compile group: 'javax.servlet', name: 'jstl', version:'1.2'
+    compile group: 'org.hibernate', name: 'hibernate-validator', version:'5.2.4.Final'
+    testCompile group: 'junit', name: 'junit', version:'4.12'
+    testCompile group: 'org.springframework', name: 'spring-test', version:'4.3.2.RELEASE'
+    testCompile group: 'org.hamcrest', name: 'hamcrest-junit', version:'2.0.0.0'
 }
 ```
 
