@@ -62,7 +62,7 @@
  <tr>
     <td><a href="https://github.com/christopherhbianchi">Chris Bianchi</a></td>
     <td><a href="https://christopherhbianchi.github.io">christopherhbianchi.github.io</a></td>
-    <td><a href="http://">http://</a></td>
+    <td><a href="http://52.14.42.197/">http://52.14.42.197/</a></td>
   </tr>
  <tr>
     <td><a href="https://github.com/msupg21">Chris Bartkewicz</a></td>
