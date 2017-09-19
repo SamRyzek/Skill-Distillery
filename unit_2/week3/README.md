@@ -1,14 +1,14 @@
 ### Week 3 - Persistence with SQL and JDBC
 
-Monday: [Dependency Management and Maven](dependencyManagement/README.md), [Spring Tool Suite](STS/README.md), [Dependency Management with Gradle](dependencyManagement/gradle/README.md)
+Monday:   Mysql/SQL [MAMP](MAMP/README.md), [SqlJdbc](SqlJdbc/README.md) - Basic Queries, Predicates and Functions
 
-Tuesday: Complete MVC File CRUD project, [Spring MVC - Validation](SpringMVC/05-Validation/README.md)
+Tuesday:   [SqlJdbc](SqlJdbc/README.md) - JDBC Introduction, [MVCFilmSite](MVCFilmSite/README.md), [ORM](ORM/README.md)
 
-Wednesday:  Mysql/SQL [MAMP](MAMP/README.md), [SqlJdbc](SqlJdbc/README.md) - Basic Queries, Predicates and Functions
+Wednesday: [SqlJdbc](SqlJdbc/README.md) - DML/More JDBC, [ORM](ORM/README.md)
 
-Thursday:  [SqlJdbc](SqlJdbc/README.md) - JDBC Introduction, [MVCFilmSite](MVCFilmSite/README.md), [SqlJdbc](SqlJdbc/README.md) - DML/More JDBC, [ORM](ORM/README.md)
+Thursday: [SqlJdbc](SqlJdbc/README.md) - Joins,  [continue ORM DML Lab](ORM/02-Lab-DML.md)
 
-Friday:  [SqlJdbc](SqlJdbc/README.md) - Joins,  [continue ORM DML Lab](ORM/02-Lab-DML.md)
+Friday: DDL and Database design
 
 Homework: Film CRUD
 
