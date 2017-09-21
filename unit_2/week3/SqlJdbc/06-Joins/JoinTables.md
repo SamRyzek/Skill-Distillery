@@ -60,4 +60,4 @@ SELECT e.first_name, e.last_name, a.phone
 
 These two queries retrieve very different result sets.
 
-[Prev](JoinTables.md) | [Up](../README.md)
+[Prev](JoinConditions.md) | [Up](../README.md) | [Next](Lab.md)
