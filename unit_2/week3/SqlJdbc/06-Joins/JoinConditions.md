@@ -69,4 +69,4 @@ WHERE c.country LIKE 'U%'
   AND a.country_code = c.country_code;
 ```
 
-[Prev](JoinTables.md) | [Up](../README.md) | [Next](Lab.md)
+[Prev](JOIN.md) | [Up](../README.md) | [Next](JoinTables.md)

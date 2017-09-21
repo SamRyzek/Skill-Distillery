@@ -2,17 +2,17 @@
 
 1. Using joins, write queries to:
 
-  a. List all stores, their city and state, and their manager's names; include stores with no manager.
+   a. List all stores, their city and state, and their manager's names; include stores with no manager.
 
-  b. List all stores, their city and state, and their manager's names, and the manager's street address; include stores with no manager.
+   b. List all stores, their city and state, and their manager's names, and the manager's street address; include stores with no manager.
 
-  c. List the name and city of every employee who doesn't have a username.
+   c. List the name and city of every employee who doesn't have a username.
 
-2.  Using joins, write queries to:
+2. Using joins, write queries to:
 
-  a. List the rental date, return date, and payment amount (where applicable) of all rentals including those that have no payments.
+   a. List the rental date, return date, and payment amount (where applicable) of all rentals including those that have no payments.
 
-  b. List only the rentals that have no payments.
+   b. List only the rentals that have no payments.
 
 3. Write a query to list employee assignments. It should retrieve employee id and full name, their store location, and their supervisor's id.
 
