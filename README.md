@@ -1,6 +1,7 @@
 # SD12 Repository
 ### Table of Contents
-* [Unit 1](unit_1)
+* [Unit 1](unit1)
+* [Unit 2](unit2)
 
 
 ### Overview
