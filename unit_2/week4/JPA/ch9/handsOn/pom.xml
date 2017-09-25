@@ -1,0 +1,49 @@
+<!-- pom.xml -->
+<!-- preceding content excluded for brevity -->
+<properties>
+     <hibernate.version>5.2.1.Final</hibernate.version>
+     <spring.version>4.3.2.RELEASE</spring.version>
+</properties>
+<dependencies>
+  <!-- Servlet API -->
+  <dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>javax.servlet-api</artifactId>
+    <version>3.1.0</version>
+  </dependency>
+  <dependency>
+    <groupId>javax.servlet</groupId>
+    <artifactId>jstl</artifactId>
+    <version>1.2</version>
+  </dependency>
+  <!-- Spring WebMVC support -->
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-webmvc</artifactId>
+    <version>${spring.version}</version>
+  </dependency>
+  <!-- Spring ORM support -->
+  <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-orm</artifactId>
+    <version>${spring.version}</version>
+  </dependency>
+  <!-- MySQL Driver -->
+  <dependency>
+    <groupId>mysql</groupId>
+    <artifactId>mysql-connector-java</artifactId>
+    <version>5.1.39</version>
+  </dependency>
+  <!-- Hibernate Persistence Provider -->
+  <dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-core</artifactId>
+    <version>${hibernate.version}</version>
+  </dependency>
+  <!-- Hibernate Connection Pool API -->
+  <dependency>
+    <groupId>org.hibernate</groupId>
+    <artifactId>hibernate-c3p0</artifactId>
+    <version>${hibernate.version}</version>
+  </dependency> 
+</dependencies> 
