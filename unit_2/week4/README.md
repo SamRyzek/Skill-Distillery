@@ -1,6 +1,6 @@
 ### Week 4 - Java Persistence API (JPA)
-Monday:  JPA  
-Tuesday:  JPA  
-Wednesday: JPA  
+Monday:  [JPA](JPA)  
+Tuesday:  [JPA](JPA)  
+Wednesday: [JPA](JPA)  
 Thursday: [Group Project](GroupProject)  
 Friday: [Group Project](GroupProject)  
