@@ -1,5 +1,7 @@
 # Labs
 
+0: Create a file in the client package named `JPQLLab` (this is where you will complete the following:
+
 1: Create a program that uses JPQL to retrieve all Customers in the
 database whose id is between 100 and 110. Output their first name, last
 name, and email. (Hint: You can use the `BETWEEN` reserved word in JPQL
