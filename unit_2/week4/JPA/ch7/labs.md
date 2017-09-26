@@ -1,6 +1,6 @@
 # Labs
 
-1: Write a method named `int checkFilmInventoryItemsForStoryById(int id, String title) { }`
+1: Write a method named `int checkFilmInventoryItemsForStoreById(int id, String title) { }`
 
   * Create a test in *MappingsLabTest* to ensure your method is returning the correct number.
 
