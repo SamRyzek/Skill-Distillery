@@ -2,7 +2,7 @@
 
 1. Create a new file in the *client* package named "ManyToManyLab.java".
 
-Write a method `public List<Film> getFilmsForActorsWithId(int id){ }`
+Write a method `public List<Film> getFilmsForActorWithId(int id){ }`
 
 Return the list of films associated with that actor.
 
