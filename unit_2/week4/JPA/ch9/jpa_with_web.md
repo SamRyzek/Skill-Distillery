@@ -100,6 +100,7 @@ dependencies {
     compile group: 'javax.servlet', name: 'javax.servlet-api', version:'3.1.0'
     compile group: 'javax.servlet', name: 'jstl', version:'1.2'
     compile group: 'org.hibernate', name: 'hibernate-validator', version:'5.2.4.Final'
+    compile group: 'org.springframework', name: 'spring-orm', version:"$springVersion"
     compile "org.springframework:spring-test:$springVersion"
     compile "org.springframework:spring-tx:$springVersion"
 
