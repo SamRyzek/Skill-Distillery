@@ -148,6 +148,8 @@ public class FilmTest {
 4: Now create implement the remaining CRUD methods to get some experience with the ease of JPA with Spring:
 
 ```java
+public Film show(int id);
+
 public List<Film> index();
 
 public Film update(int id, Film film);

@@ -1,5 +1,7 @@
 # Labs
 
+0: Create a file in the client package named `JPQLLab` (this is where you will complete the following:
+
 1: Create a program that uses JPQL to retrieve all Customers in the
 database whose id is between 100 and 110. Output their first name, last
 name, and email. (Hint: You can use the `BETWEEN` reserved word in JPQL
@@ -8,7 +10,7 @@ just like SQL.)
 2: Modify your previous solution, use a parameter to set both the minimum
 and maximum ids instead of hard-coding them into the query String.
 
-3: Write a static method in the *JPQLLab* class named `getRangeOfCustomers`.
+3: Refactor your program into an instance method in the *JPQLLab* class named `getRangeOfCustomers`.
 
   * the method should take two arguments (minId, maxId), both ints
 
@@ -18,7 +20,7 @@ and maximum ids instead of hard-coding them into the query String.
 
     * write a test to ensure that `getRangeOfCustomers` retrieves *Customer* objects within the correct range
 
-4: Write a static method in the *JPQLLab* class named `getCustomerByName`.
+4: Write a method in the *JPQLLab* class named `getCustomerByName`.
 
   * the method takes two Strings as an argument (fname,lname)
 
@@ -26,7 +28,7 @@ and maximum ids instead of hard-coding them into the query String.
 
   * write a test to ensure that a *Customer* can be retrieved (choose a customer that exists to test)
 
-5: Write a static method in the *JPQLLab* class named `getStoresByState`.
+5: Write a method in the *JPQLLab* class named `getStoresByState`.
 
   * the method takes a single String as an argument (state)
 
