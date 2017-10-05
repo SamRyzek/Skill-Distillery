@@ -30,7 +30,7 @@
 7. What did you learn?
 
 ### Completion Checklist
-[ ] : Your group's project repository has a README.md that meets project requirements ([req][req])  
+[ ] : Your group's project repository has a README.md that meets project requirements ([req](../README.md))  
 [ ] : Your project is deployed to AWS and works there  
 [ ] : You can demonstrate full CRUD  
 [ ] : Users login  
