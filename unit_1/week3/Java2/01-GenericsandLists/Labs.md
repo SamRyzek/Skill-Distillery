@@ -11,5 +11,5 @@
 
 <hr>
 
-[Prev](Collections.md) | [Up](../README.md)
+[Prev](ListImplementationClasses.md) | [Up](../README.md)
 
