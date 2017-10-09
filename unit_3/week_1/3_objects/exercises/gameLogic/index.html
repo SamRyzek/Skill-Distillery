@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Game Logic - Objects</title>
+  <!-- Stylesheet -->
+  <link rel="stylesheet" href="./game.css">
+
+  <!-- Test Dependencies -->
+  <link href="https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.css" rel="stylesheet" />
+  <script src="https://cdn.rawgit.com/mochajs/mocha/2.2.5/mocha.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/chai/3.5.0/chai.min.js"></script>
+
+  <!-- jQuery -->
+  <script
+  src="https://code.jquery.com/jquery-2.2.4.min.js"
+  integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+  crossorigin="anonymous"></script>
+
+  <!-- Test Environment Setup -->
+  <script>
+    mocha.ui('bdd');
+    mocha.reporter('html');
+    var expect = chai.expect;
+  </script>
+  <script src="./spec/testHelper.js"></script>
+  <script src="./spec/gameSpec.js"></script>
+  <script>
+    window.addEventListener('load', function() {
+      mocha.run();
+      // event listener for show/hide button
+      $('#hide').on('click', hideTests);
+    });
+  </script>
+  
+  <!-- Do not edit -->
+  <script src="./public/game.js"></script>
+
+  <!-- Your code goes here -->
+  <script src="./public/square.js"></script>
+  
+  <!-- Do not edit -->
+  <script src="./public/run.js"></script>
+</head>
+<body>
+  <canvas id="board" height="600" width="900"></canvas>
+  <button id="hide">Hide Tests</button>
+  <div id="mocha"></div>
+</body>
+</html>
