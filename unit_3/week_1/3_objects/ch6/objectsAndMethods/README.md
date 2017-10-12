@@ -20,7 +20,7 @@ the mage has :
   
 Validate that the value provided is an object. If the object's 'requiredLvl' 
 property stores a value less than or equal to your mage's current level, add it 
-to the mage's 'spells' array and return the string 'I have learned {name}.', 
+to the mage's 'spells' object and return the string 'I have learned {name}.', 
 where {name} is the object's name property. Otherwise, return the string 'I do 
 not yet possess the power to learn this.'
 
