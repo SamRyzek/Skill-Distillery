@@ -10,6 +10,4 @@
 
 * [The Event Object](eventObject.md)
 
-* [Lab: Key Logger](keyLogger.md)
-
 * [Lab: Events](events.md)
