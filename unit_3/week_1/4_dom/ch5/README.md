@@ -10,7 +10,7 @@
 
 * [Dynamically Creating Elements](dynamicallyCreatingElements.md)
 
-* [Event Listeners and Forms](dynamicallyRemoveElements.md)
+* [Removing Elements](dynamicallyRemoveElements.md)
 
 * [DOM Methods](domMethods.md)
 
