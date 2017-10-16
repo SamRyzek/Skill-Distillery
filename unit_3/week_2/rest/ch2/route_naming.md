@@ -17,15 +17,12 @@ Example of a `ProductsController`:
 |--------|-------------|----------------------------|--------------|
 | INDEX | GET | products#index | /products |
 | SHOW | GET | products#show | /products/{id} |
-| NEW | GET | products#new | /products/new |
 | CREATE | POST | products#create | /products |
-| EDIT | GET | products#edit | /products/{id}/edit |
 | UPDATE | PUT | products#update | /products/{id} |
 | DESTROY | DELETE | products#destroy | /products/{id} |
 
 * As this example illustrates, an *index* method would correspond to the path `/products` with a type of `GET`. This method would respond with a list of all of the products.
 
-* Conversely, a *new* method would correspond to the `/products/new` route and would respond with a view which contained a form to create a new product.
 
 ```java
 @RestController
@@ -38,14 +35,10 @@ public class ProductsController {
     return dao.index();
   }
 
-  @RequestMapping(value = "products/new", method = RequestMethod.GET)
-  public ModelAndView new() {
-    return new ModelAndView('new');
-  }
 }
 ```
 
-* **NOTE** We will mostly be using the `index`, `show`, `create`, `update` and `destroy` methods as they deal exclusively with data, however it is good to be aware of the convention surrounding serving `edit` and `new` forms.
+* **NOTE** We will mostly be using the `index`, `show`, `create`, `update` and `destroy` methods as they deal exclusively with data.
 
 ### Multi Level Resources
 Resources can have multiple levels of access to them. In the above example we only concerned ourselves with CRUD for the products themselves. A store like Amazon allows users to post reviews about individual products as well.
@@ -56,9 +49,7 @@ Example of “ReviewsController”. Each review corresponds to a product.
 |--------|-------------|----------------------------|--------------|
 | INDEX | GET | reviews#index | /products/{productId}/reviews |
 | SHOW | GET | reviews#show | /products/{productId}/reviews/{id} |
-| NEW | GET | reviews#new | /products/{productId}/reviews/new |
 | CREATE | POST | reviews#create | /products/{productId}/reviews |
-| EDIT | GET | reviews#edit | /products/{productId}/reviews/{id}/edit |
 | UPDATE | PUT | reviews#update | /products/{productId}/reviews/{id} |
 | DESTROY | DELETE | reviews#destroy | /products/{productId}/reviews/{id} |
 
