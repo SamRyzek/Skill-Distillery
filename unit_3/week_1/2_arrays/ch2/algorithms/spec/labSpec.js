@@ -1,3 +1,5 @@
+// binarySearch(5, test, bubbleSort);
+
 var tstArr = testArray;
 describe(`Array Lab Test Suite`, function() {
   it(`has a testArray with set values`, function() {
@@ -121,7 +123,7 @@ describe(`Array Lab Test Suite`, function() {
     it(`returns an array of length 10 when passed 1 and the testArray`, function() {
       expect(filter(1,testArray).length).to.equal(10);
     });
-    it(`returns an array containing [1009,102,109,12,1231,1230,123,124356,13,1] 
+    it(`returns an array containing [1009,102,109,12,1231,1230,123,124356,13,1]
       when passed 1 and the testArray`, function() {
         expect(filter(1,testArray)).to.include.members([1009,102,109,12,1231,1230,123,124356,13,1]);
     });
