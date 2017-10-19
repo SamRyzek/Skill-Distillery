@@ -17,7 +17,7 @@
 
 3: In your script file attach an event lister to the button you created.  
 
-4: Inside of this event listener add an ajax request method, this will be a get, that retrieves the contents of the `.json` file you  created.  
+4: Inside of this event listener add an ajax request method, this will be a get, that retrieves the contents of the `json` data from http://kkane106.github.io/mlb.json.  
 
 5: Once you have the data returning refactor your success callback method to display the data on the screen.
   * The data should be displayed as a list of the objects returned  (`<ul>`,`<li>`).  
