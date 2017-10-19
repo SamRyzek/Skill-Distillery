@@ -4,7 +4,7 @@ Now that we have experience responding with json we are going to hook up an actu
 
 **Tip:** I have provided you with an interface for your DAO and Controller class. They can be found at:
 * [DAO Interface](../interfaces/QuizDAOIntr.java)
-* [Ctrl Interface](../interfaces/QuizCtrlIntr.java)
+* [Ctrl Example](../interfaces/QuizCtrlIntr.java)
 
 1: Create a SQL quizdb database. For now only create the Quiz table. This tables should include the following information:
 * Quiz

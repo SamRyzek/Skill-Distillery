@@ -17,7 +17,7 @@ public Address show(@PathVariable int id){
 }
 ```
 
-3: Run the program and hit the route `http://localhost:8080/RESTVideoStore/rest/addresses/1` in postman. View the returned json data. Your should get
+3: Run the program and hit the route `http://localhost:8080/RESTVideoStore/api/addresses/1` in postman. View the returned json data. Your should get
 ```json
 {
   "id": 1,
