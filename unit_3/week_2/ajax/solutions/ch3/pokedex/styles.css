@@ -1,0 +1,46 @@
+#content {
+  border-style: solid;
+  border-width: 2px;
+  width: 50%;
+  background-color: white;
+  height:98vh;
+  overflow: scroll;
+}
+
+.center{
+  margin: auto;
+}
+
+#container {
+  width: 50%; /*can be in percentage also.*/
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+}
+
+#showContainer{
+  width: 40%; /*can be in percentage also.*/
+  height: auto;
+  margin: auto;
+  padding: 10px;
+  /*position: relative;*/
+}
+
+#image{
+  display: inline-block;
+  padding-right: 30px;
+}
+
+#info{
+  display: inline-block;
+}
+
+table {
+  margin: auto;
+}
+
+body{
+  background-image: url('imgs/background.png');
+  background-size: contain;
+}
