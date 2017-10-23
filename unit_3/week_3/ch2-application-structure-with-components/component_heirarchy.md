@@ -65,8 +65,9 @@ WebContent
 │   └── appModule
 │       ├── app.module.js
 │       ├── app.component.js
-│       ├── productList.component.html
-│       └── productList.component.js
+│       └ productList
+│         ├── productList.component.html
+│         └── productList.component.js
 ├── index.html
 └── js
     ├── angular.min.js
