@@ -85,21 +85,22 @@ WebContent
 ├── app
 │   └── appModule
 │       ├── app.module.js
-│       ├── helloWorld.component.html
-│       └── helloWorld.component.js
+        └── helloWorld
+│          ├── helloWorld.component.html
+│          └── helloWorld.component.js
 ├── index.html
 └── js
     ├── angular.min.js
     └── angular.min.js.map
 ```
 
-1: in `app/appModule` create a directory named 'appComponent'
+1: in `app/appModule` create a directory named 'helloWorld'
 
 * Inside of `helloWorld` create 'helloWorld.component.js' and 'helloWorld.component.html'
 
 * This is the standard format we will use when creating additional components, a directory with the components camelCased name, and a *.js* and *.html* file with the component name followed by *.component*
 
-2: in `app/appModule/helloWorld.component.js` create a new Angular component named 'helloWorld', assign the component a `template` property with `<h1>Hello World</h1>`
+2: in `app/appModule/helloWorld/helloWorld.component.js` create a new Angular component named 'helloWorld', assign the component a `template` property with `<h1>Hello World</h1>`
 
 3: in `index.html` source the `helloWorld.component.js` file.
 
