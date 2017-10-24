@@ -36,7 +36,7 @@ angular.module('pokedex')
     })
   };
 
-  service.create = function(id, pokemon) {
+  service.update = function(id, pokemon) {
     return $http({
       method : 'PUT',
       url : `${BASE_URL}/${id}`,
