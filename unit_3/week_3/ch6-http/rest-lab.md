@@ -100,5 +100,5 @@ public interface TodoControllerI {
 
 #### [Prev](pokemon-lab.md) | [Next](lab.md)
 
-[jpa]:https://github.com/SkillDistillery/SD9/blob/master/unit_2/week4/ch1/dependencies_gradle.md
-[pers]:https://github.com/SkillDistillery/SD9/blob/master/unit_2/week4/ch1/persistence_xml.md
+[jpa]:https://github.com/SkillDistillery/SD12/blob/master/unit_2/week4/ch1/dependencies_gradle.md
+[pers]:https://github.com/SkillDistillery/SD12/blob/master/unit_2/week4/ch1/persistence_xml.md
