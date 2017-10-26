@@ -51,7 +51,7 @@ $filter('date')(Date.now(), 'MM/dd/yyyy'); // 8/24/1999
 
 ### Part 5 : Warn the user if there are too many incomplete todos
 
-![img](../imgs/ch7-lab-part-5.png)
+![img](../imgs/ch7-lab-part-6.png)
 
 * Using [`ng-class`][class], give the user a visual aid informing them if there is a large back log of todos. Change the color of the background surrounding the number of incomplete todos.
 
@@ -65,7 +65,7 @@ $filter('date')(Date.now(), 'MM/dd/yyyy'); // 8/24/1999
 
 ### Part 6 : Strike and grey out completed todos
 
-![img](../imgs/ch7-lab-part-6.png)
+![img](../imgs/ch7-lab-part-5.png)
 
 * Use [`ng-class`][class] to modify the text of a todo row that is complete.
 
