@@ -5,7 +5,7 @@
 * Use the CDN!:
 
 ```
-https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.7/angular.min.js
+https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular-cookies.min.js
 ```
 
 * Angular provides the module `ngCookies` which makes accessing cookies simple
