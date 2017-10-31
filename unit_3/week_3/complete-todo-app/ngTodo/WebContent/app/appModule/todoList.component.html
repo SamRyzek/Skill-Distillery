@@ -1,0 +1,43 @@
+<form ng-hide="vm.selected">
+	<input type="text" ng-model="todo.task" />
+	<input type="submit" value="+" ng-click="vm.addTodo(todo); todo = {}" class="add" />
+</form>
+<div ng-hide="vm.selected">
+	Show Complete : <input type="checkbox" ng-model="vm.showComplete" />
+</div>
+<table ng-hide="vm.selected">
+	<thead>
+		<tr>
+			<th>Task</th>
+			<th>Mark</th>
+			<th>Completed?</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr ng-class="(todo.completed) ? 'strike' : ''" ng-repeat="todo in vm.todos | incomplete:vm.showComplete | orderBy:'id'">
+			<td ng-click="vm.displayTodo(todo)">{{todo.task}}</td>
+			<td>
+				<input type="checkbox" ng-change="vm.updateTodo(todo)" ng-model="todo.completed" />
+			</td>
+			<td>{{todo.completed}}</td>
+			<td><button ng-click="vm.deleteTodo(todo.id)" class="delete">X</button></td>
+		</tr>
+	</tbody>
+</table>
+
+<div ng-show="vm.selected && !vm.editTodo">
+	<div>ID : {{vm.selected.id}}</div>
+	<div>TASK : {{vm.selected.task}}</div>
+	<div>COMPLETED : {{vm.selected.completed}}</div>
+	<div>DESCRIPTION : {{vm.selected.description}}</div>
+	<button ng-click="vm.setEditTodo()">Edit</button>
+	<button ng-click="vm.displayTable()">Go Back</button>
+</div>
+
+<form ng-show="vm.editTodo"> <!-- value="Go round mums" -->
+	<label>Task </label><input type="text" ng-model="vm.editTodo.task" /><br />
+	<label>Completed </label><input type="checkbox" ng-model="vm.editTodo.completed" /><br />
+	<label>Description </label><input type="text" ng-model="vm.editTodo.description" /><br />
+	<input type="submit" value="Cancel" ng-click="vm.editTodo = null" />
+	<input type="submit" value="Save" ng-click="vm.updateTodo(vm.editTodo)" />
+</form>

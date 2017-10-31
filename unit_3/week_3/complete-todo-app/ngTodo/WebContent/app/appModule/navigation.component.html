@@ -1,0 +1,9 @@
+<h1>Ng Todos <span ng-show="vm.numIncomplete" ng-class="vm.warnUser()">({{vm.numIncomplete}})</span></h1>
+<nav>
+	<h1>{{vm.currentLocation()}}</h1>
+	<a href="#/">Home</a> <a href="#/about">About</a> <a href="#/contact">Contact</a>
+	<a href="#/todos">Todos</a>
+	<span ng-hide="vm.checkLogin()" ng-click="vm.loginModal()">Login</span>
+	<a ng-hide="vm.checkLogin()" href="#/register">Register</a>
+	<logout ng-show="vm.checkLogin()"></logout>
+</nav>

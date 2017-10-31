@@ -1,0 +1,5 @@
+<form>
+	<input type="email" placeholder="email" ng-model="user.email" required />
+	<input type="text" placeholder="password" ng-model="user.password" required />
+	<input type="submit" ng-click="vm.register(user); user = {}" value="Register" />
+</form>

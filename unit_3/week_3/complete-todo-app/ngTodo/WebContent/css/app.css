@@ -1,0 +1,28 @@
+.danger {
+	color: red;
+}
+
+.warn {
+	color: yellow;
+}
+
+.success {
+	color: green;
+}
+
+.strike {
+	color: #939393;
+	text-decoration: line-through;
+}
+
+.delete {
+	background-color : red;
+	border-style : none;
+	color : #fff;
+}
+
+.add {
+	background-color : blue;
+	border-style : none;
+	color : #fff;
+}

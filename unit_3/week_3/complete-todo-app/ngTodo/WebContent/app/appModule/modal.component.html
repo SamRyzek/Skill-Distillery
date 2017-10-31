@@ -1,0 +1,9 @@
+<div>
+	<h3>{{vm.resolve.title}}</h3>
+	<ul>
+		<li ng-repeat="item in vm.list" ng-click="vm.selected = item">{{item}}</li>
+	</ul>
+	<button class="btn btn-success" ng-click="vm.submit()">Submit</button>
+	<button class="btn btn-danger" ng-click="vm.cancel()">Cancel</button>
+	<!-- <login></login> -->
+</div>
