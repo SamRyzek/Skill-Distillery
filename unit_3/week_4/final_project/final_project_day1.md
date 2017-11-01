@@ -17,6 +17,8 @@
     * `.gradle`
     * `Servers`
     * `.recommenders`
+    * `.settings`
+
 
   * Add your teammates as collaborators. Navigate to `Settings/Collaborators` and enter their usernames in the provided form.  
   * Create new folder on your local machine:  
