@@ -1,7 +1,7 @@
 # Google Calendar
 
 ### Overview
-This is a brief example of how you can use Angular to communicate with a users existing Google Calendar. This example illustrates the handshake process and illustrates how to display a list of calendar events. For additional options, and the ability to create events refer to the Google Calendar documentation.
+This is a brief example of how you can use Angular to communicate with a users existing Google Calendar. This example illustrates the handshake process and illustrates how to display a list of calendar events. For additional options, and the ability to create events refer to the Google Calendar documentation: https://developers.google.com/google-apps/calendar/create-events.
 
 ***NOTE***: this does not cover how to display this in a format that looks like a calendar. You will need to find or implement your own display solution.
 
