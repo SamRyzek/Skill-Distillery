@@ -25,7 +25,7 @@ One liners and brief explanations of the technologies you have encountered over 
 
 * **Java**: C based Object Oriented language. Was billed as "Write Once, Run Anywhere".
 
-* **Gradle**: Build Tool. Build tools are technologies that automate the creating of an executable application. They compile source code, manage decencies,... A similar technology is Maven.
+* **Gradle**: Build Tool. Build tools are technologies that automate the creating of an executable application. They compile source code, manage dependencies,... A similar technology is Maven.
 
 * **HTTP**: HyperText Transfer Protocol. Defines the Request/Response protocol for client-server communication.
 
